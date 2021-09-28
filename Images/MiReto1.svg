@@ -50,142 +50,193 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2111"
-       width="188.20862"
-       height="141.90312"
-       x="4.9244447"
-       y="53.096367"
-       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.939856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2672"
-       width="177.44569"
-       height="132.95027"
-       x="9.8640642"
-       y="57.356678" />
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
+    <g
+       inkscape:label="Layer 1"
+       inkscape:groupmode="layer"
+       id="layer1">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2111"
+         width="188.20862"
+         height="141.90312"
+         x="4.9244447"
+         y="53.096367"
+         inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.939856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2672"
+         width="177.44569"
+         height="132.95027"
+         x="9.8640642"
+         y="57.356678" />
+    </g>
     <path
        id="rect31"
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:0.872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 57.669922,64.550679 a 7.3344595,7.3596251 48.026512 0 0 -1.396032,10.29911 7.3344595,7.3596251 48.026512 0 0 7.46435,2.68644 l 27.496144,36.014221 5.1072,-3.90367 -27.588912,-36.135741 a 7.3344595,7.3596251 48.026512 0 0 -0.784658,-7.59961 7.3344595,7.3596251 48.026512 0 0 -10.298092,-1.36075 z" />
+       d="m 55.216627,65.359505 a 7.3344595,7.3596251 48.026512 0 0 -1.396032,10.29911 7.3344595,7.3596251 48.026512 0 0 7.46435,2.68644 l 27.496144,36.014225 5.1072,-3.90367 -27.588912,-36.135745 a 7.3344595,7.3596251 48.026512 0 0 -0.784658,-7.59961 7.3344595,7.3596251 48.026512 0 0 -10.298092,-1.36075 z"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect31-3"
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:0.872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 141.26948,64.423039 a 7.3596251,7.3344595 41.973488 0 1 1.39603,10.29911 7.3596251,7.3344595 41.973488 0 1 -7.46435,2.68644 l -27.49615,36.014221 -5.10721,-3.90367 27.58893,-36.135741 a 7.3596251,7.3344595 41.973488 0 1 0.78466,-7.59962 7.3596251,7.3344595 41.973488 0 1 10.29809,-1.36074 z" />
+       d="m 138.81618,65.231865 a 7.3596251,7.3344595 41.973488 0 1 1.39603,10.29911 7.3596251,7.3344595 41.973488 0 1 -7.46435,2.68644 l -27.49615,36.014225 -5.10721,-3.90367 27.58893,-36.135745 a 7.3596251,7.3344595 41.973488 0 1 0.78466,-7.59962 7.3596251,7.3344595 41.973488 0 1 10.29809,-1.36074 z"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        id="rect1076"
        style="fill:#2c89a0;stroke:#000000;stroke-width:0.836488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 57.419753,104.13834 v 16.52048 H 41.664864 v 17.11769 h 15.754889 v 45.9231 h 87.026187 v -45.9231 h 15.25931 v -17.11769 h -15.25931 v -16.52048 z" />
+       d="m 54.966458,104.94717 v 16.52048 H 39.211569 v 17.11769 h 15.754889 v 45.9231 h 87.026182 v -45.9231 h 15.25931 v -17.11769 h -15.25931 v -16.52048 z"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#ffffff;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1302"
-       cx="79.685493"
-       cy="129.70905"
+       cx="77.232201"
+       cy="130.51787"
        rx="10.41302"
-       ry="10.558321" />
+       ry="10.558321"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#ffffff;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1302-6"
-       cx="123.02704"
-       cy="129.98409"
+       cx="120.57375"
+       cy="130.79291"
        rx="10.41302"
-       ry="10.558321" />
+       ry="10.558321"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.959865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1355"
-       cx="77.717445"
-       cy="131.85724"
+       cx="75.264153"
+       cy="132.66606"
        rx="7.4515452"
-       ry="7.4247422" />
+       ry="7.4247422"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#000000;stroke:#000000;stroke-width:0.959865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1355-5"
-       cx="121.05078"
-       cy="131.70349"
+       cx="118.59749"
+       cy="132.51231"
        rx="7.4515452"
-       ry="7.4247422" />
+       ry="7.4247422"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1430"
        width="46.750107"
        height="13.53803"
-       x="78.273079"
-       y="161.75565" />
+       x="75.819786"
+       y="162.56447"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-93"
        width="5.6092958"
        height="13.441193"
-       x="123.14744"
-       y="161.85249" />
+       x="120.69415"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757"
        width="5.6092958"
        height="13.441193"
-       x="78.273079"
-       y="161.85249" />
+       x="75.819786"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-5"
        width="5.6092958"
        height="13.441193"
-       x="83.882378"
-       y="161.85249" />
+       x="81.429085"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-6"
        width="5.6092958"
        height="13.441193"
-       x="89.491669"
-       y="161.85249" />
+       x="87.038376"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-2"
        width="5.6092958"
        height="13.441193"
-       x="95.10096"
-       y="161.85249" />
+       x="92.647667"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-9"
        width="5.6092958"
        height="13.441193"
-       x="100.71026"
-       y="161.85249"
+       x="98.256966"
+       y="162.66132"
        inkscape:transform-center-x="-0.012328235"
-       inkscape:transform-center-y="-2.3227069" />
+       inkscape:transform-center-y="-2.3227069"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-1"
        width="5.6092958"
        height="13.441193"
-       x="106.31954"
-       y="161.85249" />
+       x="103.86625"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-27"
        width="5.6092958"
        height="13.441193"
-       x="111.92883"
-       y="161.85249" />
+       x="109.47554"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#ffd5d5;stroke:#000000;stroke-width:0.809229;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1757-0"
        width="5.6092958"
        height="13.441193"
-       x="117.53813"
-       y="161.85249" />
+       x="115.08484"
+       y="162.66132"
+       inkscape:export-filename="/home/amayorga/new_git/Mecatronica-2021-2022/Mecatronica-2021-2022/Images/MiReto1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
